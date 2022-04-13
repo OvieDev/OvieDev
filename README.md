@@ -1,0 +1,3 @@
+- Spaghetti Oriented Programmer 
+- Usually writes in **C++, Java, Python, Dart, HTML**
+- *insert description here*
